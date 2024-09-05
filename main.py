@@ -6,4 +6,3 @@
 
 # Enciende un led en la posición (x, y)
 led.plot(0, 0)
-
