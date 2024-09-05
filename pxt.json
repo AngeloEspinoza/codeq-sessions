@@ -9,8 +9,9 @@
     "files": [
         "main.ts",
         "README.md",
-        "encender_led.py",
-        "encender_led.ts"
+        "encender_led.ts",
+        "periodos_posiciones.ts",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
